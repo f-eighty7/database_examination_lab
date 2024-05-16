@@ -1,3 +1,6 @@
+
+This examination serves as a practical test for the database course, centered on PostgreSQL. Over the course of this lab, I explored different facets of database management, from design to security and optimization. Let's dive into the tasks and insights gained during this hands-on exploration of database fundamentals.
+
 **EXAM REPORT**
 ---
 
